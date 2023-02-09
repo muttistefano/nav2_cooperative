@@ -1,0 +1,10 @@
+<class_libraries>
+	<library path="nav2_cooperative_navigator">
+	  <class
+	  	name="nav2_cooperative/NavigateCooperative"
+	  	type="nav2_cooperative::NavigateCooperative"
+	  	base_class_type="nav2_core::NavigatorBase">
+	    <description>Navigate Cooperative Navigator</description>
+	  </class>
+	</library>
+</class_libraries>
